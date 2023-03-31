@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+    text-align: justify;
+    padding: 1rem;
+}
+h3{
+    color: black;
+}
+h1{
+    background-color: white;
+    color: blueviolet;
+}
+h2{
+    color: palevioletred;
+    text-decoration: underline;
+}
+
+.linkCarrito{
+    color: aquamarine;
+    padding:2px;
+}

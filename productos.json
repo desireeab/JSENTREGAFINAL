@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "nombre": "Alimento Gatito",
+        "precio": 500,
+        "imagen": "alimento.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": "Alimento Adulto",
+        "precio": 800,
+        "imagen": "alimento.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Collar Gatito",
+        "precio": 200,
+        "imagen": "collar.jpg"    
+    },
+    {
+        "id": 3,
+        "nombre": "Collar Adulto",
+        "precio": 300,
+        "imagen": "collar.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Juguete",
+        "precio": 500,
+        "imagen": "juguete.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Comedero",
+        "precio": 300,
+        "imagen": "comedero.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Pretal talle S",
+        "precio": 700,
+        "imagen": "pretal.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Pretal talle M",
+        "precio": 800,
+        "imagen": "pretal.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Pretal talle L",
+        "precio": 900,
+        "imagen": "pretal.jpg"
+    }
+]
